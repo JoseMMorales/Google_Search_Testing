@@ -56,6 +56,7 @@ A new pop-up window will open enter details as follow
 * Select an execution JRE
 * Select layout project option
 * Click on Finish button
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns2.png)
 
 Right-click on the newly created project and
@@ -67,10 +68,12 @@ Click on Finish button
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns4.png)
 
 Create a new Java class under newpackage by right-clicking on it and then selecting- New > Class, and then name it as "MyClass". 
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns5.png)
 
 Name of the class
 Click on Finish button
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns6.png)
 
 
@@ -80,23 +83,29 @@ Click on Finish button
 * On the Properties dialog, click on "Java Build Path".
 * Click on the Libraries tab, and then
 * Click on "Add External JARs.."
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns8.png)
 
 It will open a pop-up window. Select the JAR files you want to add.
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns9.png)
 
 Click on OK button.
 
 Select all files inside the lib folder.
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns10.png)
 
 Select files outside lib folder
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst_24_7_2.png)
 
 Once done, click "Apply and Close" button
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst_24_7_3.png)
 
 Add all the JAR files inside and outside the "libs" folder. 
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns11.png)
 
 ## Test Run
@@ -106,8 +115,7 @@ Add all the JAR files inside and outside the "libs" folder.
 git clone git@github.com:JoseMMorales/Google_Search_Testing.git
 cd Google_Search_Testing/
 
-### Drivers used
-
+### Drivers used    
 To run the tests locally with Chrome, install ChromeDriver from <a href="http://chromedriver.chromium.org/">here</a> and add its location to your system PATH.
 
 * chromedriver.exe

@@ -4,6 +4,11 @@ This project is an example of UI automated functional test for Google home page 
 
 Test case are also uploaded as per commit "TC-Google_Search.xlsx" to reflect Test Scenarios, comparing expected results and actual results, preconditions, data used and postconditions of the test run.
 
+## Clone Project
+
+git clone git@github.com:JoseMMorales/Google_Search_Testing.git
+cd Google_Search_Testing/
+
 ## Built with
 
 * Java JDK 13
@@ -120,11 +125,6 @@ Add all the JAR files inside and outside the "libs" folder.
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns11.png)
 
 ## Test Run
-
-### Run Clone Project
-
-git clone git@github.com:JoseMMorales/Google_Search_Testing.git
-cd Google_Search_Testing/
 
 ### Drivers used    
 To run the tests locally with Chrome, install ChromeDriver from <a href="http://chromedriver.chromium.org/">here</a> and add its location to your system PATH.

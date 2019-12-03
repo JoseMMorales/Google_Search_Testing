@@ -6,8 +6,9 @@ Test case are also uploaded as per commit "TC-Google_Search.xlsx" to reflect Tes
 
 ## Clone Project
 
-git clone git@github.com:JoseMMorales/Google_Search_Testing.git
-cd Google_Search_Testing/
+$ git clone https://github.com/JoseMMorales/Google_Search_Testing.git
+
+$ cd Google_Search_Testing/
 
 ## Built with
 

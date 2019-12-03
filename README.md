@@ -107,7 +107,7 @@ It will open a pop-up window. Select the JAR files you want to add.
 
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns9.png)
 
-Click on OK button.
+Click on OK.
 
 Select all files inside the lib folder.
 
@@ -117,7 +117,7 @@ Select files outside lib folder
 
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst_24_7_2.png)
 
-Once done, click "Apply and Close" button
+Click "Apply and Close" button
 
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst_24_7_3.png)
 
@@ -144,4 +144,8 @@ TC1Google_search_Chrome.java--browser=Chrome
 cd src/google_search
 TC2Google_search_Firefox.java --browser=firefox
 
-### 
+### Links, images and installation guide copied from:
+
+https://www.guru99.com/installing-selenium-webdriver.html
+
+

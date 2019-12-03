@@ -13,12 +13,15 @@ Test case are also uploaded as per commit "TC-Google_Search.xlsx" to reflect Tes
 ## Installation
 
 You need to install Java JDK 13 in your system. Download <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a>
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst1.png)
 
 Next:
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst2.png)
 
 You also need to download latest version of <b>"Eclipse IDE for Java Developers"</b> <a href ="https://www.eclipse.org/downloads/">here</a>
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst3.png)
 
 You should be able to download an exe file named "eclipse-inst-win64" for Setup.
@@ -26,15 +29,19 @@ You should be able to download an exe file named "eclipse-inst-win64" for Setup.
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst4.png)
 
 Double-click on file to Install the Eclipse. Click Eclipse IDE for Java Developers.
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst5.png)
 
 After that, a new window will open which click button marked 1 and change path to "C:\eclipse". Click on Install button marked 2
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst6.png)
 
 After completion of the installation procedure, a window will pops up. Just click on Launch
+
 ![image](https://www.guru99.com/images/2-2017/022017_1205_Guidetoinst7.png)
 
 And download Selenium Java Client Driver <a href ="https://selenium.dev/">here</a>
+
 ![image](https://www.guru99.com/images/download_java_client_driver_1.png)
 
 This download comes as a ZIP file named "selenium-2.25.0.zip". Extract the contents of this ZIP file on your C drive.
@@ -44,9 +51,11 @@ This download comes as a ZIP file named "selenium-2.25.0.zip". Extract the conte
 Launch the <b>"eclipse.exe"</b> file inside the "eclipse" folder.
 
 Just accept work space as the default location.
+
 ![image](https://www.guru99.com/images/configure_eclipse_1b.png)
 
 Create a new project File > New > Java Project. 
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns1.png)
 
 A new pop-up window will open enter details as follow
@@ -61,10 +70,12 @@ A new pop-up window will open enter details as follow
 
 Right-click on the newly created project and
 Select New. Package, and name that package "....".
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns3.png)
 
 Enter the name of the package.
 Click on Finish button
+
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns4.png)
 
 Create a new Java class under newpackage by right-clicking on it and then selecting- New > Class, and then name it as "MyClass". 

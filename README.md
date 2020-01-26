@@ -1,8 +1,8 @@
 # Google_search_Testing
 
-This project is an example of UI automated functional test for Google home page and search using Selenium and Java. Using Google Chrome and Firefox driver.
+This project is an example of UI automated functional test for Google home page and search, using Selenium and Java. Running the scripts in two different environments like Google Chrome Driver and Firefox driver.
 
-Test case are also uploaded as per commit "TC-Google_Search.xlsx" to reflect Test Scenarios, comparing expected results and actual results, preconditions, data used and postconditions of the test run.
+Test case are also uploaded as per commit "TC-Google_Search.xlsx" to reflect Test Scenarios, comparing expected results and actual results, entering preconditions, showing test data and postconditions of the test run.
 
 ## Clone Project
 

@@ -8,14 +8,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class TC2Google_search_Firefox {
 
     public static void main(String[] args) {
-        // Auto-generated method stub
     	System.setProperty("webdriver.gecko.driver", "/......./geckodriver");
-        // Initialise browser
-        WebDriver driver = new FirefoxDriver();
-        // Open Google
-        driver.get("https://www.google.com/");
-        // Maximise browser
-        driver.manage().window().maximize();
+        WebDriver driver = new FirefoxDriver();   // Initialise browser
+        driver.get("https://www.google.com/");    // Open Google
+        driver.manage().window().maximize();      // Maximise browser
       	
       	//Get the WebElement into search bar
         WebElement bar = driver.findElement(By.name("q"));

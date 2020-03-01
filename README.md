@@ -127,7 +127,17 @@ Add all the JAR files inside and outside the "libs" folder.
 
 ![image](https://www.guru99.com/images/cassandra/021316_1152_SeleniumIns11.png)
 
-## 
+## How to add JUnit Framework to your project.
+
+1. Right Click in Preferenced Library to create Jar path, Click Java build path, Click add Library.
+![Screenshot 2020-03-01 at 13 00 22](https://user-images.githubusercontent.com/43299285/75626192-40a93900-5bbd-11ea-9381-e78ff61f2871.png)
+
+* Click JUnit and click next
+* Pick the JUnit version for your project and click finish 
+* CLick Apply and Close
+
+
+
 
 ## Test Run
 

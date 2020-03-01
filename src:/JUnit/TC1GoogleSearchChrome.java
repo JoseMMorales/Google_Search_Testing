@@ -20,12 +20,12 @@ public class TC1GoogleSearchChrome {
   
   @Before
   public void setUp() throws Exception {
-    System.setProperty("webdriver.chrome.driver", "/Users/jose/Desktop/chromedriver");
+    System.setProperty("webdriver.chrome.driver", "/.............../chromedriver");
     driver = new ChromeDriver();
     driver.manage().window().maximize();
     driver.get("https://www.google.com/");
   }
-  
+
   @After
   public void tearDown() throws Exception {
     driver.quit();

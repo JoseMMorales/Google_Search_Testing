@@ -133,13 +133,13 @@ Add all the JAR files inside and outside the "libs" folder.
 ![Screenshot 2020-03-01 at 13 00 22](https://user-images.githubusercontent.com/43299285/75626192-40a93900-5bbd-11ea-9381-e78ff61f2871.png)
 
 2. Click JUnit and click next. 
-![Uploading Screenshot 2020-03-01 at 13.07.27.png…]()
+![Screenshot 2020-03-01 at 13 07 27](https://user-images.githubusercontent.com/43299285/75626407-4142cf00-5bbf-11ea-803e-33bc1ff30573.png)
 
 3. Pick the JUnit version up for your project and click finish.
-![Uploading Screenshot 2020-03-01 at 13.07.44.png…]()
+![Screenshot 2020-03-01 at 13 07 44](https://user-images.githubusercontent.com/43299285/75626415-4d2e9100-5bbf-11ea-8958-af0e04888f18.png)
 
 4. As you can see already JUnit library added on your CLasspath, just cLick Apply and Close.
-![Uploading Screenshot 2020-03-01 at 13.11.20.png…]()
+![Screenshot 2020-03-01 at 13 11 20](https://user-images.githubusercontent.com/43299285/75626287-3c315000-5bbe-11ea-8a6e-23f44aec8533.png)
 
 5.DONE! Your JUnit Library is ready to be used in your project.
 ![Screenshot 2020-03-01 at 13 13 16](https://user-images.githubusercontent.com/43299285/75626321-89adbd00-5bbe-11ea-93bb-3ddc64ed7452.png)

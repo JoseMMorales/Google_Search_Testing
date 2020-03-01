@@ -1,6 +1,6 @@
 # Google_search_Testing
 
-This project is an example of UI automated functional test for Google home page and search, using WebDriver, Selenium and Java. Running the scripts in two different environments like Google ChromeDriver and GeckoDriver (Firefox).
+This project is an example of UI automated functional test for Google home page and search, using WebDriver, Selenium JUnit framework and Java. Running the scripts in two different environments like Google ChromeDriver and GeckoDriver (Firefox).
 
 Test case is uploaded as per commit "TC-Google_Search.xlsx" to reflect Test Scenarios, comparing expected results and actual results, entering preconditions, showing test data and postconditions of each test run.
 
@@ -15,7 +15,7 @@ $ cd Google_Search_Testing/
 * Java JDK 13
 * Eclipse IDE 2019‑09
 * Selenium Java Client 3.141.59
-* JUnit 
+* JUnit 5
 * WebDriver
 
 ## Installation
@@ -129,15 +129,20 @@ Add all the JAR files inside and outside the "libs" folder.
 
 ## How to add JUnit Framework to your project.
 
-1. Right Click in Preferenced Library to create Jar path, Click Java build path, Click add Library.
+1. Right Click in Preferenced Library to create Jar path, click Java build path, click add Library.
 ![Screenshot 2020-03-01 at 13 00 22](https://user-images.githubusercontent.com/43299285/75626192-40a93900-5bbd-11ea-9381-e78ff61f2871.png)
 
-* Click JUnit and click next
-* Pick the JUnit version for your project and click finish 
-* CLick Apply and Close
+2. Click JUnit and click next. 
+![Uploading Screenshot 2020-03-01 at 13.07.27.png…]()
 
+3. Pick the JUnit version up for your project and click finish.
+![Uploading Screenshot 2020-03-01 at 13.07.44.png…]()
 
+4. As you can see already JUnit library added on your CLasspath, just cLick Apply and Close.
+![Uploading Screenshot 2020-03-01 at 13.11.20.png…]()
 
+5.DONE! Your JUnit Library is ready to be used in your project.
+![Screenshot 2020-03-01 at 13 13 16](https://user-images.githubusercontent.com/43299285/75626321-89adbd00-5bbe-11ea-93bb-3ddc64ed7452.png)
 
 ## Test Run
 

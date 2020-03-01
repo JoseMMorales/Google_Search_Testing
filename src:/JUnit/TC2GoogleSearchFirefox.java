@@ -42,5 +42,4 @@ public class TC2GoogleSearchFirefox {
 		List<WebElement> H3Text = driver.findElements(By.tagName("h3"));
 		assertEquals("Meet Guru99 - Free Training Tutorials & Video for IT Courses", H3Text.get(0).getText());
 	}
-
 }
